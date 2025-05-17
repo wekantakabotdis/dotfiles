@@ -24,7 +24,7 @@ First, check out the dotfiles repo in your $HOME directory using git
 
 ```
 cd ~
-git clone https://github.com/wekantakabotdis/dotfiles.git
+git clone --recurse-submodules https://github.com/wekantakabotdis/dotfiles.git
 cd dotfiles
 ```
 
