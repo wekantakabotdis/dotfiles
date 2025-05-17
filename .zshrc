@@ -140,7 +140,7 @@ source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # ---- Eza (better ls) -----
 
-alias ls="eza --color=always --long --icons=always --show-symlinks"
+alias ls="eza --color=always --long --icons=always -l"
 
 # ---- Zoxide (better cd) ----
 eval "$(zoxide init zsh)"
