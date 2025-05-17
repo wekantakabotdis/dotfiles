@@ -120,8 +120,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Added by LM Studio CLI (lms)
 export PATH="$PATH:/Users/yinyong/.lmstudio/bin"
-source /opt/homebrew/share/powerlevel10k/powerlevel10k.zsh-theme
-source /opt/homebrew/share/powerlevel10k/powerlevel10k.zsh-theme
 
 # history setup
 HISTFILE=$HOME/.zhistory
@@ -135,8 +133,6 @@ setopt hist_verify
 # completion using arrow keys (based on history)
 bindkey '^[[A' history-search-backward
 bindkey '^[[B' history-search-forward
-source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # ---- Eza (better ls) -----
 
