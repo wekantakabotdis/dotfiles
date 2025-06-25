@@ -1,0 +1,13 @@
+[mode_floating]
+label_color=#000f
+selectable_bg_color=#ff0a
+label_font_family=sans-serif
+label_symbols=abcdefghijklmnopqrstuvwxyz
+
+[mode_tile]
+label_color=#000f
+label_select_color=#000f
+selectable_bg_color=#ff03
+selectable_border_color=#000f
+label_font_family=sans-serif
+label_symbols=abcdefghijklmnopqrstuvwxyz
